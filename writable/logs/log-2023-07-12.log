@@ -1,0 +1,33 @@
+CRITICAL - 2023-07-12 23:59:23 --> Undefined variable $status
+in APPPATH\Views\login.php on line 131.
+ 1 APPPATH\Views\login.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 131)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(34): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 23:59:35 --> Undefined variable $status
+in APPPATH\Views\login.php on line 131.
+ 1 APPPATH\Views\login.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 131)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(34): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-12 23:59:43 --> Undefined variable $status
+in APPPATH\Views\login.php on line 131.
+ 1 APPPATH\Views\login.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 131)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(34): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

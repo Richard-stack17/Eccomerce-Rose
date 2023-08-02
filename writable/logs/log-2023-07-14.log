@@ -1,0 +1,64 @@
+CRITICAL - 2023-07-14 00:52:00 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 01:02:07 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 01:09:59 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 16:17:31 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-14 14:23:42 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 14:26:20 --> Call to a member function getResultArray() on array
+in APPPATH\Controllers\Home.php on line 132.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 14:26:53 --> Undefined variable $customerID
+in APPPATH\Views\compra4.php on line 134.
+ 1 APPPATH\Views\compra4.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customerID', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra4.php', 134)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra4.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra4', [], true)
+ 5 APPPATH\Controllers\Home.php(146): view('compra4', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 14:28:50 --> syntax error, unexpected identifier "customerId", expecting ")"
+in APPPATH\Views\compra4.php on line 134.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra4', [], true)
+ 3 APPPATH\Controllers\Home.php(146): view('compra4', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-14 14:42:09 --> syntax error, unexpected identifier "customerId", expecting ")"
+in APPPATH\Views\compra4.php on line 134.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra4', [], true)
+ 3 APPPATH\Controllers\Home.php(146): view('compra4', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,1787 @@
+CRITICAL - 2023-07-09 00:02:07 --> Unclosed '{' on line 319
+in APPPATH\Views\ropas.php on line 388.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('ropas', [], true)
+ 3 APPPATH\Controllers\Ropas.php(11): view('ropas', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->polos()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:32:38 --> Undefined array key "password"
+in APPPATH\Controllers\Home.php on line 21.
+ 1 APPPATH\Controllers\Home.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:32:55 --> Undefined array key "password"
+in APPPATH\Controllers\Home.php on line 21.
+ 1 APPPATH\Controllers\Home.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:33:24 --> Undefined array key "password"
+in APPPATH\Controllers\Home.php on line 21.
+ 1 APPPATH\Controllers\Home.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 21)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:52:10 --> Undefined array key "password"
+in APPPATH\Controllers\Home.php on line 22.
+ 1 APPPATH\Controllers\Home.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "password"', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 22)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:56:09 --> Undefined variable $Imagen
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 APPPATH\Views\clotheOnly.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Imagen', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:56:26 --> Array to string conversion
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 APPPATH\Views\clotheOnly.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:57:08 --> Array to string conversion
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 APPPATH\Views\clotheOnly.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:57:16 --> Undefined array key 4
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 APPPATH\Views\clotheOnly.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 4', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:57:20 --> Array to string conversion
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 APPPATH\Views\clotheOnly.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 21)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:57:29 --> syntax error, unexpected integer "1", expecting variable or "{" or "$"
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 3 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:59:45 --> syntax error, unexpected integer "1", expecting variable or "{" or "$"
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 3 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:59:47 --> syntax error, unexpected integer "1", expecting variable or "{" or "$"
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 3 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:59:48 --> syntax error, unexpected integer "1", expecting variable or "{" or "$"
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 3 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:59:48 --> syntax error, unexpected integer "1", expecting variable or "{" or "$"
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 3 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 00:59:52 --> syntax error, unexpected integer "1", expecting variable or "{" or "$"
+in APPPATH\Views\clotheOnly.php on line 21.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 3 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 01:08:34 --> Call to undefined method App\Models\Productos::findOne
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Home.php(43): CodeIgniter\Model->__call('findOne', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 01:11:31 --> Undefined variable $idProduct
+in APPPATH\Views\clotheOnly.php on line 20.
+ 1 APPPATH\Views\clotheOnly.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idProduct', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 20)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 01:11:47 --> Undefined variable $idImagen
+in APPPATH\Views\clotheOnly.php on line 260.
+ 1 APPPATH\Views\clotheOnly.php(260): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $idImagen', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 260)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 03:32:16 --> Invalid file: "ropas.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ropas.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('ropas', [], true)
+ 3 APPPATH\Controllers\Ropas.php(11): view('ropas', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->polos()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 04:24:04 --> Class "App\Controllers\Proveedores" not found
+in APPPATH\Controllers\Ropas.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 04:25:10 --> Undefined variable $imagen
+in APPPATH\Views\polos.php on line 309.
+ 1 APPPATH\Views\polos.php(309): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $imagen', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 309)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(61): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 04:25:18 --> Undefined variable $imagen
+in APPPATH\Views\polos.php on line 309.
+ 1 APPPATH\Views\polos.php(309): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $imagen', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 309)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(61): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 04:47:58 --> Undefined variable $productosModel
+in APPPATH\Controllers\Ropas.php on line 52.
+ 1 APPPATH\Controllers\Ropas.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $productosModel', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Ropas.php', 52)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:19:08 --> Undefined array key "Supplier"
+in APPPATH\Views\polos.php on line 280.
+ 1 APPPATH\Views\polos.php(280): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "Supplier"', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 280)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(12): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->polos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:37:50 --> Undefined variable $request
+in APPPATH\Controllers\Home.php on line 53.
+ 1 APPPATH\Controllers\Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $request', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 53)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:38:59 --> view(): Argument #3 ($options) must be of type array, string given, called in C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php on line 61
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\Home.php(61): view('compra', [...], '1')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:39:07 --> view(): Argument #3 ($options) must be of type array, string given, called in C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php on line 61
+in SYSTEMPATH\Common.php on line 1172.
+ 1 APPPATH\Controllers\Home.php(61): view('compra', [...], '3')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:41:36 --> Undefined variable $producto
+in APPPATH\Views\compra.php on line 142.
+ 1 APPPATH\Views\compra.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php', 142)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra', [], true)
+ 5 APPPATH\Controllers\Home.php(62): view('compra', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:41:45 --> Undefined variable $data
+in APPPATH\Views\compra.php on line 142.
+ 1 APPPATH\Views\compra.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php', 142)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra', [], true)
+ 5 APPPATH\Controllers\Home.php(62): view('compra', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:46:24 --> Array to string conversion
+in APPPATH\Controllers\Home.php on line 63.
+ 1 APPPATH\Controllers\Home.php(63): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 63)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:46:50 --> Undefined variable $product
+in APPPATH\Views\compra.php on line 139.
+ 1 APPPATH\Views\compra.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $product', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php', 139)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra', [], true)
+ 5 APPPATH\Controllers\Home.php(63): view('compra', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:47:20 --> Undefined variable $data
+in APPPATH\Views\compra.php on line 142.
+ 1 APPPATH\Views\compra.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php', 142)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra', [], true)
+ 5 APPPATH\Controllers\Home.php(63): view('compra', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:47:34 --> Undefined array key "cantidad"
+in APPPATH\Views\compra.php on line 142.
+ 1 APPPATH\Views\compra.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "cantidad"', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php', 142)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra', [], true)
+ 5 APPPATH\Controllers\Home.php(63): view('compra', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 05:51:08 --> Undefined variable $cantidad
+in APPPATH\Views\clotheOnly.php on line 266.
+ 1 APPPATH\Views\clotheOnly.php(266): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cantidad', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 266)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(48): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 06:34:24 --> Undefined variable $Product
+in APPPATH\Views\compra.php on line 136.
+ 1 APPPATH\Views\compra.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Product', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php', 136)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra', [], true)
+ 5 APPPATH\Controllers\Home.php(63): view('compra', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 06:40:48 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Controllers\Home.php on line 65.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 06:41:22 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Controllers\Home.php on line 65.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 06:41:53 --> syntax error, unexpected token "}", expecting ";"
+in APPPATH\Controllers\Home.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 06:42:08 --> Unclosed '{' on line 7
+in APPPATH\Controllers\Home.php on line 78.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 06:42:51 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH\Controllers\Home.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 06:43:25 --> Undefined variable $Product
+in APPPATH\Views\compra.php on line 136.
+ 1 APPPATH\Views\compra.php(136): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Product', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php', 136)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra', [], true)
+ 5 APPPATH\Controllers\Home.php(62): view('compra', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->enviar_compra()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 07:21:48 --> Undefined variable $cantidad
+in APPPATH\Controllers\Home.php on line 74.
+ 1 APPPATH\Controllers\Home.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $cantidad', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 74)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->carrito()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 07:42:27 --> Class "App\Controllers\Proveedores" not found
+in APPPATH\Controllers\Home.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 07:43:05 --> Class "App\Controllers\Customer" not found
+in APPPATH\Controllers\Home.php on line 87.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 07:43:26 --> Undefined variable $empresa
+in APPPATH\Controllers\Home.php on line 89.
+ 1 APPPATH\Controllers\Home.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $empresa', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:01:46 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\Home.php on line 107.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:02:17 --> Undefined variable $Customer
+in APPPATH\Views\compra3.php on line 134.
+ 1 APPPATH\Views\compra3.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Customer', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 134)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(104): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:03:01 --> Cannot use object of type App\Models\Customer as array
+in APPPATH\Views\compra3.php on line 134.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 4 APPPATH\Controllers\Home.php(104): view('compra3', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:05:31 --> Object of class App\Models\Customer could not be converted to string
+in APPPATH\Views\compra3.php on line 134.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 4 APPPATH\Controllers\Home.php(104): view('compra3', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:05:40 --> Cannot use object of type App\Models\Customer as array
+in APPPATH\Views\compra3.php on line 134.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 4 APPPATH\Controllers\Home.php(104): view('compra3', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:11:45 --> Undefined variable $resultado2
+in APPPATH\Views\compra3.php on line 142.
+ 1 APPPATH\Views\compra3.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado2', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 142)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(104): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:15:59 --> Undefined variable $resultado2
+in APPPATH\Views\compra3.php on line 142.
+ 1 APPPATH\Views\compra3.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado2', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 142)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(104): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:27:10 --> Undefined variable $Categoria
+in APPPATH\Controllers\Home.php on line 99.
+ 1 APPPATH\Controllers\Home.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Categoria', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 99)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:40:45 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:40:45 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:44:37 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:44:37 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:45:30 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:45:30 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:46:40 --> CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in C:\xampp\htdocs\FINAL_PROJECT\system\Model.php on line 201
+in SYSTEMPATH\Database\BaseResult.php on line 389.
+ 1 SYSTEMPATH\Model.php(201): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 3 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:47:40 --> CodeIgniter\Database\BaseResult::getFirstRow(): Argument #1 ($type) must be of type string, null given, called in C:\xampp\htdocs\FINAL_PROJECT\system\Model.php on line 201
+in SYSTEMPATH\Database\BaseResult.php on line 389.
+ 1 SYSTEMPATH\Model.php(201): CodeIgniter\Database\BaseResult->getFirstRow(null)
+ 2 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 3 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:48:37 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`orders`, CONSTRAINT `fk_Orders_Customers1` FOREIGN KEY (`CustomerID`) REFERENCES `customers` (`CustomerID`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(128): App\Models\Orden->insertar('', '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 08:48:37 --> Cannot add or update a child row: a foreign key constraint fails (`mydb`.`orders`, CONSTRAINT `fk_Orders_Customers1` FOREIGN KEY (`CustomerID`) REFERENCES `customers` (`CustomerID`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (\'\', \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (\'\', \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (\'\', \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(128): App\Models\Orden->insertar('', '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:49:13 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:49:13 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:50:52 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:50:52 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:51:39 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:51:39 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:51:54 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:51:54 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:53:00 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:53:00 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 08:54:11 --> Undefined variable $customerID
+in APPPATH\Controllers\Home.php on line 128.
+ 1 APPPATH\Controllers\Home.php(128): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customerID', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 128)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:55:11 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(126): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:55:11 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(126): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 08:58:44 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 08:58:44 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(125): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:01:26 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(124): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 09:01:26 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(124): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:03:25 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:03:25 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:04:00 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:04:00 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:08:07 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:08:07 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:12:38 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:12:38 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:17:42 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:17:42 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:19:44 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:19:44 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:21:11 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:21:11 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:21:22 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:21:22 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:24:21 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:24:21 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:24:41 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, 1)
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(124): CodeIgniter\BaseModel->find(1)
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 09:24:41 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, 1)
+ 7 APPPATH\Controllers\Home.php(124): CodeIgniter\BaseModel->find(1)
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:25:41 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(127): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:25:41 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(127): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:27:17 --> Undefined array key "CustomerID"
+in APPPATH\Controllers\Home.php on line 127.
+ 1 APPPATH\Controllers\Home.php(127): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "CustomerID"', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 127)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:28:08 --> Undefined variable $Customer
+in APPPATH\Views\compra3.php on line 134.
+ 1 APPPATH\Views\compra3.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Customer', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 134)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:28:49 --> Undefined variable $Customer
+in APPPATH\Views\compra3.php on line 134.
+ 1 APPPATH\Views\compra3.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $Customer', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 134)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:29:39 --> Cannot use object of type App\Models\Customer as array
+in APPPATH\Views\compra3.php on line 134.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 4 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:30:02 --> Undefined variable $customerID
+in APPPATH\Views\compra3.php on line 134.
+ 1 APPPATH\Views\compra3.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customerID', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 134)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:30:11 --> Undefined variable $CustomerID
+in APPPATH\Views\compra3.php on line 134.
+ 1 APPPATH\Views\compra3.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $CustomerID', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 134)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:30:17 --> Cannot use object of type App\Models\Customer as array
+in APPPATH\Views\compra3.php on line 135.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 4 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:30:37 --> Cannot use object of type App\Models\Customer as array
+in APPPATH\Views\compra3.php on line 135.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 4 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:34:10 --> Cannot use object of type App\Models\Customer as array
+in APPPATH\Views\compra3.php on line 135.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 4 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:36:48 --> Cannot use object of type App\Models\Customer as array
+in APPPATH\Views\compra3.php on line 135.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 4 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:39:30 --> Undefined variable $customer
+in APPPATH\Views\compra3.php on line 134.
+ 1 APPPATH\Views\compra3.php(134): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customer', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 134)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 09:40:06 --> Undefined variable $customer
+in APPPATH\Views\compra3.php on line 135.
+ 1 APPPATH\Views\compra3.php(135): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $customer', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php', 135)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\compra3.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('compra3', [], true)
+ 5 APPPATH\Controllers\Home.php(112): view('compra3', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:40:37 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(129): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:40:37 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(129): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 09:41:01 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(129): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 09:41:01 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(129): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 14:35:38 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(129): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 14:35:38 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(129): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 14:42:47 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(130): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 14:42:47 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(130): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 14:44:01 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(130): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 14:44:01 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(130): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 14:48:00 --> mysqli_sql_exception: Column 'CustomerID' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `or...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `or...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `or...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `or...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(130): App\Models\Orden->insertar(NULL, '1', '1')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-09 14:48:00 --> Column 'CustomerID' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (NULL, \'1\', \'1\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `orders` (`CustomerID`, `EmployeeID`, `ShipperID`) VALUES (:CustomerID:, :EmployeeID:, :ShipperID:)', [...], false)
+ 5 APPPATH\Models\Orden.php(15): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\Home.php(130): App\Models\Orden->insertar(null, '1', '1')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 14:49:49 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(126): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 14:49:49 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(126): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 14:53:12 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, 1)
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(126): CodeIgniter\BaseModel->find(1)
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 14:53:12 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, 1)
+ 7 APPPATH\Controllers\Home.php(126): CodeIgniter\BaseModel->find(1)
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 14:56:57 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(126): CodeIgniter\BaseModel->find('')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 14:56:57 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '')
+ 7 APPPATH\Controllers\Home.php(126): CodeIgniter\BaseModel->find('')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 14:57:00 --> Attempt to read property "CustomerID" on null
+in APPPATH\Controllers\Home.php on line 92.
+ 1 APPPATH\Controllers\Home.php(92): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "CustomerID" on null', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 92)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:00:56 --> Allowed fields must be specified for model: "App\Models\Customer"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Customer')
+ 2 SYSTEMPATH\BaseModel.php(757): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 4 APPPATH\Models\Customer.php(25): CodeIgniter\Model->insert([...])
+ 5 APPPATH\Controllers\Home.php(91): App\Models\Customer->insertar('sd', 'alfaro', '044', 'Lima', '12312', 'Perú', '312', 'richardalfaromanzano@gmail.com')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 15:03:30 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '36')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(126): CodeIgniter\BaseModel->find('36')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 15:03:30 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'36\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'36\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'36\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '36')
+ 7 APPPATH\Controllers\Home.php(126): CodeIgniter\BaseModel->find('36')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 15:06:00 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '41')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(126): CodeIgniter\BaseModel->find('41')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 15:06:00 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'41\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'41\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'41\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '41')
+ 7 APPPATH\Controllers\Home.php(126): CodeIgniter\BaseModel->find('41')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:07:03 --> Object of class App\Models\Customer could not be converted to string
+in APPPATH\Controllers\Home.php on line 93.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-09 15:17:04 --> mysqli_sql_exception: Unknown column 'customers.id' in 'where clause' in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '57')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(133): CodeIgniter\BaseModel->find('57')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-09 15:17:04 --> Unknown column 'customers.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'57\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'57\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = \'57\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `customers`
+WHERE `customers`.`id` = :customers.id:', [...], false)
+ 5 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '57')
+ 7 APPPATH\Controllers\Home.php(133): CodeIgniter\BaseModel->find('57')
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:30:10 --> Call to undefined method App\Models\Customer::insertar
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\Home.php(96): CodeIgniter\Model->__call('insertar', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->insertar_cliente()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:33:01 --> Attempt to read property "CustomerID" on array
+in APPPATH\Controllers\Home.php on line 138.
+ 1 APPPATH\Controllers\Home.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "CustomerID" on array', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 138)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:33:11 --> Attempt to read property "CustomerID" on array
+in APPPATH\Controllers\Home.php on line 138.
+ 1 APPPATH\Controllers\Home.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "CustomerID" on array', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 138)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:36:21 --> Attempt to read property "CustomerID" on array
+in APPPATH\Controllers\Home.php on line 138.
+ 1 APPPATH\Controllers\Home.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "CustomerID" on array', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Home.php', 138)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:37:12 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 128.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:38:28 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 130.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:38:33 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 130.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:39:18 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 136.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 15:39:23 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 136.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-09 19:57:15 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 130.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

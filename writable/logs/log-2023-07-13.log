@@ -1,0 +1,105 @@
+CRITICAL - 2023-07-13 00:03:48 --> Undefined variable $status
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(35): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:03:51 --> Undefined variable $status
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(35): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:05:09 --> Undefined variable $status
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(36): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:06:01 --> Undefined variable $status
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(36): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:09:10 --> Undefined variable $status
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(36): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:11:23 --> Undefined variable $status
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(36): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:11:28 --> Undefined variable $status
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $status', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(36): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:14:52 --> Undefined variable $miBooleano
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miBooleano', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(39): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:14:56 --> Undefined variable $miBooleano
+in APPPATH\Views\login.php on line 130.
+ 1 APPPATH\Views\login.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $miBooleano', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php', 130)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\login.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('login', [], true)
+ 5 APPPATH\Controllers\Home.php(39): view('login')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->go_login()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-13 00:32:51 --> Call to a member function getRow() on array
+in APPPATH\Controllers\Home.php on line 135.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->generar_orden()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

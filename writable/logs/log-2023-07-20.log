@@ -1,0 +1,142 @@
+ERROR - 2023-07-20 02:27:36 --> Error connecting to the database: mysqli_sql_exception: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:174
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(174): mysqli->real_connect('localhost', 'root', '', 'mydb', 3307, '', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '6')
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(78): CodeIgniter\BaseModel->find('6')
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->carrito()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(557): CodeIgniter\Model->doFind(true, '6')
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\Home.php(78): CodeIgniter\BaseModel->find('6')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\Home->carrito()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-20 02:27:36 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `products`
+WHERE `products`.`ProductID` = :products.ProductID:', [...], false)
+ 3 SYSTEMPATH\Model.php(200): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(557): CodeIgniter\Model->doFind(true, '6')
+ 5 APPPATH\Controllers\Home.php(78): CodeIgniter\BaseModel->find('6')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->carrito()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-20 05:24:52 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-20 05:25:29 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-20 05:25:33 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-20 05:26:53 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-20 05:28:29 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 226.
+ 1 SYSTEMPATH\CodeIgniter.php(226): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(190): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2023-07-20 16:31:37 --> Cannot redeclare App\Controllers\AdminMenu::go_producto()
+in APPPATH\Controllers\AdminMenu.php on line 98.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:31:49 --> Cannot redeclare App\Controllers\AdminMenu::go_producto()
+in APPPATH\Controllers\AdminMenu.php on line 98.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:31:51 --> Cannot redeclare App\Controllers\AdminMenu::go_producto()
+in APPPATH\Controllers\AdminMenu.php on line 98.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:31:55 --> Cannot redeclare App\Controllers\AdminMenu::go_producto()
+in APPPATH\Controllers\AdminMenu.php on line 98.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:31:57 --> Cannot redeclare App\Controllers\AdminMenu::go_producto()
+in APPPATH\Controllers\AdminMenu.php on line 98.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:34:27 --> Cannot redeclare App\Controllers\AdminMenu::insertar_proveedor()
+in APPPATH\Controllers\AdminMenu.php on line 279.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:34:36 --> Cannot redeclare App\Controllers\AdminMenu::insertar_proveedor()
+in APPPATH\Controllers\AdminMenu.php on line 279.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:34:39 --> Cannot redeclare App\Controllers\AdminMenu::insertar_proveedor()
+in APPPATH\Controllers\AdminMenu.php on line 279.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:34:42 --> Cannot redeclare App\Controllers\AdminMenu::insertar_proveedor()
+in APPPATH\Controllers\AdminMenu.php on line 279.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:34:47 --> Cannot redeclare App\Controllers\AdminMenu::insertar_proveedor()
+in APPPATH\Controllers\AdminMenu.php on line 279.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:35:30 --> Cannot redeclare App\Controllers\AdminMenu::insertar_producto()
+in APPPATH\Controllers\AdminMenu.php on line 291.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-07-20 16:39:56 --> Class "App\Controllers\OrdenDetails" not found
+in APPPATH\Controllers\AdminMenu.php on line 465.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->verOrdenes()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-20 17:25:12 --> Class "App\Controllers\OrdenDetails" not found
+in APPPATH\Controllers\AdminMenu.php on line 465.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->verOrdenes()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-20 17:55:51 --> Class "App\Controllers\Categorias" not found
+in APPPATH\Controllers\AdminMenu.php on line 351.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_categoria()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-20 19:00:52 --> Class "App\Controllers\Empleados" not found
+in APPPATH\Controllers\AdminMenu.php on line 406.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_empleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-20 19:00:58 --> Class "App\Controllers\Empleados" not found
+in APPPATH\Controllers\AdminMenu.php on line 406.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_empleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-20 19:01:00 --> Class "App\Controllers\Empleados" not found
+in APPPATH\Controllers\AdminMenu.php on line 406.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_empleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-20 19:01:21 --> Class "App\Controllers\Empleado" not found
+in APPPATH\Controllers\AdminMenu.php on line 406.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_empleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

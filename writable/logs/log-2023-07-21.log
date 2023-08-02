@@ -1,0 +1,677 @@
+CRITICAL - 2023-07-21 03:22:35 --> Undefined variable $resultado
+in APPPATH\Views\polos.php on line 164.
+ 1 APPPATH\Views\polos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(12): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->polos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:25:03 --> Class "App\Controllers\Categorias" not found
+in APPPATH\Controllers\Ropas.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->polos()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:29:26 --> Undefined variable $resultado
+in APPPATH\Views\polos.php on line 164.
+ 1 APPPATH\Views\polos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(69): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:29:30 --> Undefined variable $resultado
+in APPPATH\Views\polos.php on line 164.
+ 1 APPPATH\Views\polos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(69): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:29:39 --> Undefined variable $resultado
+in APPPATH\Views\polos.php on line 164.
+ 1 APPPATH\Views\polos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(69): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:29:46 --> Undefined variable $resultado
+in APPPATH\Views\polos.php on line 164.
+ 1 APPPATH\Views\polos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(69): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:30:18 --> Undefined variable $resultado
+in APPPATH\Views\polos.php on line 164.
+ 1 APPPATH\Views\polos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(69): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:32:34 --> Undefined variable $resultado
+in APPPATH\Controllers\Ropas.php on line 68.
+ 1 APPPATH\Controllers\Ropas.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Ropas.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:34:13 --> Undefined variable $resultado
+in APPPATH\Views\clotheOnly.php on line 166.
+ 1 APPPATH\Views\clotheOnly.php(166): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 166)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(56): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:35:57 --> Class "App\Controllers\Categorias" not found
+in APPPATH\Controllers\Home.php on line 52.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:51:46 --> Class "App\Controllers\Empleado" not found
+in APPPATH\Controllers\AdminMenu.php on line 406.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_empleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 03:51:49 --> Class "App\Controllers\Empleados" not found
+in APPPATH\Controllers\AdminMenu.php on line 440.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_borrarempleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 04:20:22 --> Class "App\Controllers\Empleado" not found
+in APPPATH\Controllers\AdminMenu.php on line 406.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_empleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 04:20:54 --> Class "App\Controllers\Empleados" not found
+in APPPATH\Controllers\AdminMenu.php on line 441.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_borrarempleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 04:20:56 --> Class "App\Controllers\Empleados" not found
+in APPPATH\Controllers\AdminMenu.php on line 441.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_borrarempleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 04:21:45 --> Class "App\Controllers\Empleados" not found
+in APPPATH\Controllers\AdminMenu.php on line 441.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_borrarempleado()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 04:57:51 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(24): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 04:57:56 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(24): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:33:47 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(24): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:34:30 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(24): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:37:35 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(24): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:50:59 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(26): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:55:09 --> Undefined variable $id
+in APPPATH\Views\polos.php on line 230.
+ 1 APPPATH\Views\polos.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 230)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(79): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:56:11 --> Undefined variable $id
+in APPPATH\Views\polos.php on line 230.
+ 1 APPPATH\Views\polos.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 230)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(79): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:56:43 --> Undefined variable $imagen
+in APPPATH\Controllers\Ropas.php on line 77.
+ 1 APPPATH\Controllers\Ropas.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $imagen', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Ropas.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:58:43 --> Undefined variable $imagen
+in APPPATH\Controllers\Ropas.php on line 80.
+ 1 APPPATH\Controllers\Ropas.php(80): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $imagen', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Ropas.php', 80)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:59:02 --> Undefined variable $id
+in APPPATH\Views\polos.php on line 230.
+ 1 APPPATH\Views\polos.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php', 230)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\polos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('polos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(79): view('polos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->ordenar()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 05:59:22 --> syntax error, unexpected single-quoted string "id", expecting "]"
+in APPPATH\Controllers\Ropas.php on line 77.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Ropas.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ropas')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ropas')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Ropas', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:01:19 --> syntax error, unexpected variable "$id"
+in APPPATH\Controllers\Ropas.php on line 75.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\Ropas.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Ropas')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Ropas')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Ropas', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:09:56 --> Call to undefined method App\Models\Productos::obtener_producto
+in SYSTEMPATH\Model.php on line 842.
+ 1 APPPATH\Controllers\AdminMenu.php(126): CodeIgniter\Model->__call('obtener_producto', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->Editar_Producto2()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:11:28 --> Allowed fields must be specified for model: "App\Models\Productos"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Productos')
+ 2 SYSTEMPATH\BaseModel.php(919): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 4 APPPATH\Controllers\AdminMenu.php(159): CodeIgniter\Model->update('17', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->guardar()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:12:26 --> unlink(../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg): No such file or directory
+in APPPATH\Controllers\AdminMenu.php on line 139.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg): No such file or directory', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\AdminMenu.php', 139)
+ 2 APPPATH\Controllers\AdminMenu.php(139): unlink('../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->guardar()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:13:07 --> unlink(../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg): No such file or directory
+in APPPATH\Controllers\AdminMenu.php on line 177.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg): No such file or directory', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\AdminMenu.php', 177)
+ 2 APPPATH\Controllers\AdminMenu.php(177): unlink('../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->EliminarProducto()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:13:16 --> unlink(../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg): No such file or directory
+in APPPATH\Controllers\AdminMenu.php on line 177.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg): No such file or directory', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Controllers\\AdminMenu.php', 177)
+ 2 APPPATH\Controllers\AdminMenu.php(177): unlink('../src/Imagenes/1689919620_d1c48b32a77dd7f9c595.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->EliminarProducto()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:25:58 --> Allowed fields must be specified for model: "App\Models\Proveedores"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Proveedores')
+ 2 SYSTEMPATH\BaseModel.php(919): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 4 APPPATH\Controllers\AdminMenu.php(217): CodeIgniter\Model->update('5', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->modificar_proveedor()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:27:03 --> Allowed fields must be specified for model: "App\Models\Expedidores"
+in SYSTEMPATH\BaseModel.php on line 1242.
+ 1 SYSTEMPATH\BaseModel.php(1242): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Expedidores')
+ 2 SYSTEMPATH\BaseModel.php(919): CodeIgniter\BaseModel->doProtectFields([...])
+ 3 SYSTEMPATH\Model.php(756): CodeIgniter\BaseModel->update([...], [...])
+ 4 APPPATH\Controllers\AdminMenu.php(265): CodeIgniter\Model->update('4', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->modificar_expedidor()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-21 06:29:01 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`mydb`.`orders`, CONSTRAINT `fk_Orders_Shippers1` FOREIGN KEY (`ShipperID`) REFERENCES `shippers` (`ShipperID`) ON DELETE NO ACTION ON UPDATE NO ACTION) in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `sh...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `sh...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `sh...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `sh...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\system\Model.php(456): CodeIgniter\Database\BaseBuilder->delete()
+#5 C:\xampp\htdocs\FINAL_PROJECT\system\BaseModel.php(1065): CodeIgniter\Model->doDelete(Array, false)
+#6 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\AdminMenu.php(280): CodeIgniter\BaseModel->delete(Array)
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\AdminMenu->EliminarExpedidor()
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+#9 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-07-21 06:29:01 --> Cannot delete or update a parent row: a foreign key constraint fails (`mydb`.`orders`, CONSTRAINT `fk_Orders_Shippers1` FOREIGN KEY (`ShipperID`) REFERENCES `shippers` (`ShipperID`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('DELETE FROM `shippers`
+WHERE `ShipperID` = \'4\'
+AND `ShipperID` IN (\'4\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('DELETE FROM `shippers`
+WHERE `ShipperID` = \'4\'
+AND `ShipperID` IN (\'4\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('DELETE FROM `shippers`
+WHERE `ShipperID` = \'4\'
+AND `ShipperID` IN (\'4\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2791): CodeIgniter\Database\BaseConnection->query('DELETE FROM `shippers`
+WHERE `ShipperID` = :ShipperID:
+AND `ShipperID` IN :ShipperID :', [...], false)
+ 5 SYSTEMPATH\Model.php(456): CodeIgniter\Database\BaseBuilder->delete()
+ 6 SYSTEMPATH\BaseModel.php(1065): CodeIgniter\Model->doDelete([...], false)
+ 7 APPPATH\Controllers\AdminMenu.php(280): CodeIgniter\BaseModel->delete([...])
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->EliminarExpedidor()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:41:17 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Views\MostrarCategoria.php on line 142.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('MostrarCategoria', [], true)
+ 4 APPPATH\Controllers\AdminMenu.php(358): view('MostrarCategoria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_categoria()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 06:41:17 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Views\MostrarCategoria.php on line 142.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('MostrarCategoria', [], true)
+ 4 APPPATH\Controllers\AdminMenu.php(358): view('MostrarCategoria', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_categoria()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 07:27:30 --> Undefined variable $proveedor
+in APPPATH\Views\BorrarEmpleado.php on line 143.
+ 1 APPPATH\Views\BorrarEmpleado.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $proveedor', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\BorrarEmpleado.php', 143)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\BorrarEmpleado.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('BorrarEmpleado', [], true)
+ 5 APPPATH\Controllers\AdminMenu.php(446): view('BorrarEmpleado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_borrarempleado()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 07:27:45 --> Undefined variable $proveedor
+in APPPATH\Views\BorrarEmpleado.php on line 143.
+ 1 APPPATH\Views\BorrarEmpleado.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $proveedor', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\BorrarEmpleado.php', 143)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\BorrarEmpleado.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('BorrarEmpleado', [], true)
+ 5 APPPATH\Controllers\AdminMenu.php(446): view('BorrarEmpleado', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->mostrar_borrarempleado()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-21 13:05:39 --> mysqli_sql_exception: Column 'SupplierName' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `su...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(NULL, NULL, NULL, NULL, NULL, NULL, '993546892')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-21 13:05:39 --> Column 'SupplierName' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (:SupplierName:, :ContactName:, :Address:, :City:, :PostalCode:, :Country:, :Phone:)', [...], false)
+ 5 APPPATH\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(null, null, null, null, null, null, '993546892')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-21 13:08:57 --> mysqli_sql_exception: Column 'SupplierName' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `su...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(NULL, NULL, NULL, NULL, NULL, NULL, '993546892')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-21 13:08:57 --> Column 'SupplierName' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (:SupplierName:, :ContactName:, :Address:, :City:, :PostalCode:, :Country:, :Phone:)', [...], false)
+ 5 APPPATH\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(null, null, null, null, null, null, '993546892')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-21 13:09:01 --> mysqli_sql_exception: Column 'SupplierName' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `su...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(NULL, NULL, NULL, NULL, NULL, NULL, '993546892')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-21 13:09:01 --> Column 'SupplierName' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (:SupplierName:, :ContactName:, :Address:, :City:, :PostalCode:, :Country:, :Phone:)', [...], false)
+ 5 APPPATH\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(null, null, null, null, null, null, '993546892')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-21 13:09:54 --> mysqli_sql_exception: Column 'SupplierName' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `su...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(NULL, NULL, NULL, NULL, NULL, NULL, '993546892')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-21 13:09:54 --> Column 'SupplierName' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (:SupplierName:, :ContactName:, :Address:, :City:, :PostalCode:, :Country:, :Phone:)', [...], false)
+ 5 APPPATH\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(null, null, null, null, null, null, '993546892')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-21 13:09:57 --> mysqli_sql_exception: Column 'SupplierName' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `su...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(NULL, NULL, NULL, NULL, NULL, NULL, '993546892')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-21 13:09:57 --> Column 'SupplierName' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (:SupplierName:, :ContactName:, :Address:, :City:, :PostalCode:, :Country:, :Phone:)', [...], false)
+ 5 APPPATH\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(null, null, null, null, null, null, '993546892')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-07-21 13:13:26 --> mysqli_sql_exception: Column 'SupplierName' cannot be null in C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\FINAL_PROJECT\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `su...', 0)
+#1 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `su...')
+#2 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `su...')
+#3 C:\xampp\htdocs\FINAL_PROJECT\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `su...', Array, false)
+#4 C:\xampp\htdocs\FINAL_PROJECT\app\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\FINAL_PROJECT\app\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(NULL, NULL, NULL, NULL, NULL, NULL, '993546892')
+#6 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+#7 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+#8 C:\xampp\htdocs\FINAL_PROJECT\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\FINAL_PROJECT\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-07-21 13:13:26 --> Column 'SupplierName' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, \'993546892\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `suppliers` (`SupplierName`, `ContactName`, `Address`, `City`, `PostalCode`, `Country`, `Phone`) VALUES (:SupplierName:, :ContactName:, :Address:, :City:, :PostalCode:, :Country:, :Phone:)', [...], false)
+ 5 APPPATH\Models\Proveedores.php(21): CodeIgniter\Database\BaseBuilder->insert([...])
+ 6 APPPATH\Controllers\AdminMenu.php(38): App\Models\Proveedores->insertar(null, null, null, null, null, null, '993546892')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\AdminMenu->insertar_proveedor()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminMenu))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 13:44:10 --> syntax error, unexpected variable "$resultado", expecting "," or ";"
+in APPPATH\Views\clotheOnly.php on line 200.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 3 APPPATH\Controllers\Home.php(61): view('clotheOnly', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 13:44:22 --> Object of class CodeIgniter\Database\MySQLi\Result could not be converted to string
+in APPPATH\Views\clotheOnly.php on line 200.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 4 APPPATH\Controllers\Home.php(61): view('clotheOnly', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 13:44:38 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Views\clotheOnly.php on line 200.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 4 APPPATH\Controllers\Home.php(61): view('clotheOnly', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 13:44:54 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$CategoryName
+in APPPATH\Views\clotheOnly.php on line 200.
+ 1 APPPATH\Views\clotheOnly.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$CategoryName', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 200)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 13:45:25 --> Undefined array key "CategoryName"
+in APPPATH\Views\clotheOnly.php on line 200.
+ 1 APPPATH\Views\clotheOnly.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "CategoryName"', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 200)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 13:45:35 --> Array to string conversion
+in APPPATH\Views\clotheOnly.php on line 200.
+ 1 APPPATH\Views\clotheOnly.php(200): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php', 200)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\clotheOnly.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 5 APPPATH\Controllers\Home.php(61): view('clotheOnly', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 14:06:26 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(26): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 14:06:33 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(26): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 14:06:43 --> syntax error, unexpected token "/"
+in APPPATH\Views\clotheOnly.php on line 200.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('clotheOnly', [], true)
+ 3 APPPATH\Controllers\Home.php(74): view('clotheOnly', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->capturarIDImagen()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 14:06:55 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(26): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 14:13:38 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(26): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-07-21 14:17:55 --> Undefined variable $resultado
+in APPPATH\Views\vestidos.php on line 164.
+ 1 APPPATH\Views\vestidos.php(164): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resultado', 'C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php', 164)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\FINAL_PROJECT\\app\\Views\\vestidos.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('vestidos', [], true)
+ 5 APPPATH\Controllers\Ropas.php(26): view('vestidos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Ropas->vestidos()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Ropas))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
